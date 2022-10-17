@@ -1,18 +1,37 @@
+body {
+    background-color: #fffed1;
+    }
+
 .header {
     text-align: center;
     font-size: 50px;
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.obrazok {
+    border: 5px solid rgb(92, 92, 92);
+    text-align: center;
+}
 
-.jeden,
-.dva,
-.tri {
+#obrazok2 {
+    text-align:center;
+}
+
+#head {
+    font-style: italic;
+    color: rgb(164, 153, 45);
+}
+
+p {
     text-align: center;
     font-family:Arial, Helvetica;
     font-size: 30px;
 }
 
-.obrazok {
-    text-align: center;
+h2 {
+    color:rgb(123, 119, 90);
+}
+
+h3 {
+    color:rgb(2, 150, 0);
 }
