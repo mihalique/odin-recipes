@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.jeden,
+.dva,
+.tri {
+    text-align: center;
+    font-family:Arial, Helvetica;
+    font-size: 30px;
+}
+
+.obrazok {
+    text-align: center;
+}
